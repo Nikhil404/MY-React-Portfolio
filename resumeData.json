@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Nikhil Banuri",
+    "occupation": "Student at MREC",
+    "description": "Love to code,Kill stress with cofee",
+    "image": "photo.jpg",
+    "bio": "My name is Nikhil, I'm a Full Stack ReactJS Developer. Currently I'm pursuing my B.Tech ",
+    "contactmessage": "Get in touch with me to receive further details, Ready to help with anything.",
+    "email": "nikhilbanuri4@gmail.com",
+    "phone": "+917893288007",
+    "address": {
+      "street": "37-23/A,Vallabh nagar",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "509103"
+    },
+    "website": "https://drive.google.com/file/d/1mKCfFdGq5bs2DvAGre4rWq44orQyhdDY/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1mKCfFdGq5bs2DvAGre4rWq44orQyhdDY/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Nikhil.banuri.98/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/banuri-nikhil-00098/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nikhil_banuri/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nikhil404",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my some of skills",
+    "education": [
+      {
+        "school": "Malla reddy engineering college",
+        "degree": " Bachelor of Technology",
+        "graduated": "2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "ECIL",
+        "title": "Student intern",
+        "years": "June 2018 -July 2018 ",
+        "description": "Internet of things."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Ansible",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "DISTANCE MEASURE",
+        "category": "We use a ultrasonic sensor for detection of the object.",
+        "video": "detection.mp4",
+        "url": "https://www.hackster.io/anukulnikhil/distance-measurement-5102a0"
+      },
+      {
+        "title": "SMART MIRROR",
+        "category": "Here we have a smart mirror which has the features of smart phone",
+        "image": "smart-mirror.jpg"
+      },
+      {
+        "title": "DUAL AXIS SOLAR TRACKER",
+        "category": "Here we use a solar tracker which has 360 degree rotaion and automated sun detection.",
+        "image": "dual-axis-solar-tracker.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You are a good person",
+        "user": "MY Mom"
+      }
+    ]
+  }
+}
